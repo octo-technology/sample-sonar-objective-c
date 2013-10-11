@@ -1,6 +1,8 @@
 sample-sonar-objective-c
 ========================
 
+**CAUTIOUS, NOT UP TO DATE**
+
 This is a sample project demonstrating the setup needed by the sonar objective-c plugin. In order to use,
 
 1. Install sonar (see http://www.sonarsource.org/screencasts/installation-of-sonar/)
